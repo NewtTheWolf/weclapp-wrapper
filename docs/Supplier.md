@@ -1,0 +1,62 @@
+# Supplier
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | Option<**String**> |  | [optional]
+**version** | Option<**String**> |  | [optional]
+**addresses** | Option<[**Vec<crate::models::Address>**](address.md)> |  | [optional]
+**bank_accounts** | Option<[**Vec<crate::models::PartyBankAccount>**](partyBankAccount.md)> |  | [optional]
+**birth_date** | Option<**i32**> |  | [optional]
+**commercial_language_id** | Option<**String**> |  | [optional]
+**company** | Option<**String**> |  | [optional]
+**company2** | Option<**String**> |  | [optional]
+**contacts** | Option<[**Vec<crate::models::Contact>**](contact.md)> |  | [optional]
+**created_date** | Option<**i32**> |  | [optional]
+**currency_id** | Option<**String**> |  | [optional]
+**currency_name** | Option<**String**> |  | [optional]
+**custom_attributes** | Option<[**Vec<crate::models::CustomAttribute>**](customAttribute.md)> |  | [optional]
+**customer_number_at_supplier** | Option<**String**> |  | [optional]
+**delivery_address_id** | Option<**String**> |  | [optional]
+**description** | Option<**String**> |  | [optional]
+**email** | Option<**String**> |  | [optional]
+**fax** | Option<**String**> |  | [optional]
+**first_name** | Option<**String**> |  | [optional]
+**invoice_address_id** | Option<**String**> |  | [optional]
+**last_modified_date** | Option<**i32**> |  | [optional]
+**last_name** | Option<**String**> |  | [optional]
+**middle_name** | Option<**String**> |  | [optional]
+**mobile_phone1** | Option<**String**> |  | [optional]
+**non_standard_tax_id** | Option<**String**> |  | [optional]
+**online_accounts** | Option<[**Vec<crate::models::OnlineAccount>**](onlineAccount.md)> |  | [optional]
+**order_block** | Option<**bool**> |  | [optional]
+**party_type** | **String** |  | 
+**payment_method_id** | Option<**String**> |  | [optional]
+**payment_method_name** | Option<**String**> |  | [optional]
+**person_company** | Option<**String**> |  | [optional]
+**person_department_id** | Option<**String**> |  | [optional]
+**person_role_id** | Option<**String**> |  | [optional]
+**phone** | Option<**String**> |  | [optional]
+**primary_address_id** | Option<**String**> |  | [optional]
+**primary_contact_id** | Option<**String**> |  | [optional]
+**reference_number** | Option<**String**> |  | [optional]
+**salutation** | Option<**String**> |  | [optional]
+**sector_id** | Option<**String**> |  | [optional]
+**sector_name** | Option<**String**> |  | [optional]
+**shipment_method_id** | Option<**String**> |  | [optional]
+**shipment_method_name** | Option<**String**> |  | [optional]
+**supplier_number** | Option<**String**> |  | [optional]
+**supplier_rating_id** | Option<**String**> |  | [optional]
+**supplier_rating_name** | Option<**String**> |  | [optional]
+**tags** | Option<**Vec<String>**> |  | [optional]
+**term_of_payment_id** | Option<**String**> |  | [optional]
+**term_of_payment_name** | Option<**String**> |  | [optional]
+**title** | Option<**String**> |  | [optional]
+**title_id** | Option<**String**> |  | [optional]
+**vat_registration_number** | Option<**String**> |  | [optional]
+**website** | Option<**String**> |  | [optional]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

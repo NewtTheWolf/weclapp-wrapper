@@ -1,0 +1,12 @@
+# PurchaseOrderRequestOfferItemScaleValue
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**price** | Option<[**crate::models::custom_attribute_definition::AttributeType**](decimal.md)> |  | [optional]
+**scale** | Option<[**crate::models::custom_attribute_definition::AttributeType**](decimal.md)> |  | [optional]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
